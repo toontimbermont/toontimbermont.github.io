@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toon Timbermont</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Toon Timbermont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Datt BV</copyright>
+    <lastBuildDate>Sat, 16 Jul 2022 17:45:29 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 16 Jul 2022 17:46:57 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>About This Blog This blog collects my thinking and public learning on topics that I am really passionate about: personal development, technology and start-ups.
+About Me From Datt.be, I provide consulting services in these 3 areas. Some projects I worked on:
+Tax-on-Web Vitalink Skryv Some companies I worked for:
+Accenture HealthConnect, Smals Skryv, VandenBroele ING, BNP Paribas Fortis, &amp;hellip; Flemish Government, Belgian Government See LinkedIn for more info about me.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/2022-07-22-my-first-post/</link>
+      <pubDate>Sat, 16 Jul 2022 17:45:29 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/2022-07-22-my-first-post/</guid>
+      <description>Test content Test code Dit is test content onder de Tweede header
+Test code </description>
+    </item>
+    
+  </channel>
+</rss>
