@@ -57,12 +57,13 @@
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ0PR8NPVP"></script>
 <script>
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': false });
+	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': true });
 }
 </script>
 

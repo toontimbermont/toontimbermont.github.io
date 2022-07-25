@@ -63,12 +63,13 @@ Accenture HealthConnect, Smals Skryv, VandenBroele ING, BNP Paribas Fortis, &hel
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ0PR8NPVP"></script>
 <script>
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': false });
+	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': true });
 }
 </script>
 
@@ -145,6 +146,8 @@ Some projects I worked on:</p>
 <p>See LinkedIn for more info about me.</p>
 <h1 id="about-the-underlying-tech">About the underlying tech</h1>
 <p>The pages you are reading are powered by <a href="https://gohugo.io/" target="_blank">Hugo</a>, with a slightly modified <a href="https://themes.gohugo.io/themes/hugo-theme-cactus/" target="_blank">cactus theme</a>. I create code snapshots with with the <a href="https://visualstudio.microsoft.com/" target="_blank">Visual Studio Code</a> extension <a href="https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap" target="_blank">CodeSnap</a></p>
+<h1 id="gdpr">GDPR</h1>
+<p>We take security seriously. Please refer to the <a href="/privacy_cookie_policy">Privacy &amp; Cookie Policy</a> for more information.</p>
 
   
   </div>

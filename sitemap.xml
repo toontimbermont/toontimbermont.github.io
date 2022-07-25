@@ -37,6 +37,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://toontimbermont.github.io/privacy_cookie_policy/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>https://toontimbermont.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

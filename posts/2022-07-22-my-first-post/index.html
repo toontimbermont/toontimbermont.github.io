@@ -57,12 +57,13 @@
     
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RJ0PR8NPVP"></script>
 <script>
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': false });
+	gtag('config', 'G-RJ0PR8NPVP', { 'anonymize_ip': true });
 }
 </script>
 
@@ -105,6 +106,12 @@ if (!doNotTrack) {
     <br/>
     <span id="actions">
       <ul>
+        
+        <li>
+          <a class="icon" href=" https://toontimbermont.github.io/privacy_cookie_policy/" aria-label="Previous">
+            <i class="fas fa-chevron-left" aria-hidden="true" onmouseover="$('#i-prev').toggle();" onmouseout="$('#i-prev').toggle();"></i>
+          </a>
+        </li>
         
         
         <li>
