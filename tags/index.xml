@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Toon Timbermont</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://toontimbermont.github.io/tags/</link>
     <description>Recent content in Tags on Toon Timbermont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Datt BV</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 17:45:29 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:45:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>startup</title>
-      <link>http://localhost:1313/tags/startup/</link>
+      <link>https://toontimbermont.github.io/tags/startup/</link>
       <pubDate>Sat, 16 Jul 2022 17:45:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/startup/</guid>
+      <guid>https://toontimbermont.github.io/tags/startup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>https://toontimbermont.github.io/tags/technology/</link>
       <pubDate>Sat, 16 Jul 2022 17:45:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>https://toontimbermont.github.io/tags/technology/</guid>
       <description></description>
     </item>
     

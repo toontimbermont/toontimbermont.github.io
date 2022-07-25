@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology on Toon Timbermont</title>
-    <link>http://localhost:1313/tags/technology/</link>
+    <link>https://toontimbermont.github.io/tags/technology/</link>
     <description>Recent content in technology on Toon Timbermont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Datt BV</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 17:45:29 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jul 2022 17:45:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/2022-07-22-my-first-post/</link>
+      <link>https://toontimbermont.github.io/posts/2022-07-22-my-first-post/</link>
       <pubDate>Sat, 16 Jul 2022 17:45:29 +0200</pubDate>
       
-      <guid>http://localhost:1313/posts/2022-07-22-my-first-post/</guid>
+      <guid>https://toontimbermont.github.io/posts/2022-07-22-my-first-post/</guid>
       <description>Test content Test code Dit is test content onder de Tweede header
 Test code </description>
     </item>
