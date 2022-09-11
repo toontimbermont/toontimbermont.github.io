@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Toon Timbermont</title>
+    <link>https://toontimbermont.github.io/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Toon Timbermont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Datt BV</copyright>
+    <lastBuildDate>Sun, 11 Sep 2022 12:20:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why and How I use Obsidian as a 2nd Brain</title>
+      <link>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</link>
+      <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
+      
+      <guid>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</guid>
+      <description>Your mind is for having ideas, not holding them. – [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)
+Why a Digital 2nd Brain? I do not remember everything. I forget. Sometimes this is a good thing, but often not. You do want to forget a bad memory, but not that important task!
+I have ideas. A lot of them. At various and random places and moments. Trying to remember these ideas and associations creates cognitive load I do not want.</description>
+    </item>
+    
+  </channel>
+</rss>
