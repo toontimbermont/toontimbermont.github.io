@@ -7,14 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Datt BV</copyright>
-    <lastBuildDate>Sun, 11 Sep 2022 12:20:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 17:45:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 books that shape my organisational thinking</title>
+      <link>https://toontimbermont.github.io/posts/3-books-organising-software-development-teams/</link>
+      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
+      
+      <guid>https://toontimbermont.github.io/posts/3-books-organising-software-development-teams/</guid>
+      <description>As a software architect, project lead, and tech startup co-founder, I&amp;rsquo;ve encountered many challenges that are disguised as technical choices or issues.
+And while tech is often a factor, the organizational issues beneath these challenges are just as critical or even more critical to address.
+Here are three inspiring books that have shaped my thinking on how to navigate interpersonal and organizational challenges in a tech environment.
+5 Dysfunctions of a team Working with people is not always easy and goes wrong in many ways.</description>
+    </item>
+    
     <item>
       <title>Why and How I use Obsidian as a 2nd Brain</title>
       <link>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</link>
       <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
       
       <guid>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</guid>
-      <description>Your mind is for having ideas, not holding them. – [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)
+      <description>Your mind is for having ideas, not holding them. — [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)
 Why a Digital 2nd Brain? I do not remember everything. I forget. Sometimes this is a good thing, but often not. You do want to forget a bad memory, but not that important task!
 I have ideas. A lot of them. At various and random places and moments. Trying to remember these ideas and associations creates cognitive load I do not want.</description>
     </item>

@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://toontimbermont.github.io/posts/3-books-organising-software-development-teams/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/books/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/posts/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/software-development/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/team/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/team-organisation/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/tags/teamwork/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://toontimbermont.github.io/</loc>
+    <lastmod>2023-04-27T17:45:29+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://toontimbermont.github.io/tags/2nd-brain/</loc>
     <lastmod>2022-09-11T12:20:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13,21 +58,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://toontimbermont.github.io/tags/pkm/</loc>
-    <lastmod>2022-09-11T12:20:29+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://toontimbermont.github.io/posts/</loc>
-    <lastmod>2022-09-11T12:20:29+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://toontimbermont.github.io/tags/</loc>
-    <lastmod>2022-09-11T12:20:29+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://toontimbermont.github.io/</loc>
     <lastmod>2022-09-11T12:20:29+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
