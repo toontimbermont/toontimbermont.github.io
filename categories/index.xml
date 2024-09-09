@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Toon Timbermont</title>
-    <link>https://toontimbermont.github.io/categories/</link>
-    <description>Recent content in Categories on Toon Timbermont</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Datt BV</copyright><atom:link href="https://toontimbermont.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</title>
+    <link>https://www.toontimbermont.be/categories/</link>
+    <description>Recent content in Categories on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.toontimbermont.be/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

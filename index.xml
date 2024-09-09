@@ -1,67 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Toon Timbermont</title>
-    <link>https://toontimbermont.github.io/</link>
-    <description>Recent content on Toon Timbermont</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Datt BV</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 17:45:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>3 books that shape my organisational thinking</title>
-      <link>https://toontimbermont.github.io/posts/3-books-organising-software-development-teams/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/posts/3-books-organising-software-development-teams/</guid>
-      <description>As a software architect, project lead, and tech startup co-founder, I&amp;rsquo;ve encountered many challenges that are disguised as technical choices or issues.
-And while tech is often a factor, the organizational issues beneath these challenges are just as critical or even more critical to address.
-Here are three inspiring books that have shaped my thinking on how to navigate interpersonal and organizational challenges in a tech environment.
-5 Dysfunctions of a team Working with people is not always easy and goes wrong in many ways.</description>
-    </item>
-    
-    <item>
-      <title>Why and How I use Obsidian as a 2nd Brain</title>
-      <link>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</link>
-      <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/posts/why-how-i-use-obsidian/</guid>
-      <description>Your mind is for having ideas, not holding them. — [David Allen](https://en.wikipedia.org/wiki/David_Allen_(author)
-Why a Digital 2nd Brain? I do not remember everything. I forget. Sometimes this is a good thing, but often not. You do want to forget a bad memory, but not that important task!
-I have ideas. A lot of them. At various and random places and moments. Trying to remember these ideas and associations creates cognitive load I do not want.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://toontimbermont.github.io/about/</link>
-      <pubDate>Sat, 16 Jul 2022 17:46:57 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/about/</guid>
-      <description>About This Blog In this blog, I write articles triggered by questions or conversations I have with inspiring people. Each blog post is typically a more extended answer to something I discussed with them and consider worthwhile to share publicly. Please note that these posts are 100% my own opinions and points of views.
-About Me As a kid, I loved building things.
-As a teenager &amp;amp; student, I loved organising things, both at local &amp;amp; international level.</description>
-    </item>
-    
-    <item>
-      <title>5 Tips on How to Start a Startup</title>
-      <link>https://toontimbermont.github.io/posts/5-tips-start-startup/</link>
-      <pubDate>Fri, 15 Jul 2022 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/posts/5-tips-start-startup/</guid>
-      <description>Starting a startup is a bet. A big bet. You&amp;rsquo;ll spend a lot of time and effort on it, possibly your money as well&amp;hellip; Which is daunting! So you&amp;rsquo;ll want to prepare for your journey.
-Before starting Skryv, I read plenty of blog posts &amp;amp; books, talked to quite a few people and followed a support track. Out of that, I distilled my startup checklist, starting with the why, creating the legal entity and finding the initial idea and team to get started.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://toontimbermont.github.io/privacy_cookie_policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://toontimbermont.github.io/privacy_cookie_policy/</guid>
-      <description>Privacy &amp;amp; Cookie Policy This privacy &amp;amp; cookie policy applies to DATT BV, further referred to as DATT.
-DATT respects and protects your privacy. In this privacy &amp;amp; cookie policy we will explain which personal data DATT collects, how and why we use it and how we protect your data.
-Processing personal data by DATT DATT is responsible for the processing of personal data. This privacy notice discloses the privacy practices for toontimbermont.</description>
-    </item>
-    
+    <title>Home on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</title>
+    <link>https://www.toontimbermont.be/</link>
+    <description>Recent content in Home on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://www.toontimbermont.be/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

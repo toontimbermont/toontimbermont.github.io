@@ -1,102 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Toon Timbermont</title>
-    <link>https://toontimbermont.github.io/tags/</link>
-    <description>Recent content in Tags on Toon Timbermont</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Datt BV</copyright>
-    <lastBuildDate>Thu, 27 Apr 2023 17:45:29 +0200</lastBuildDate><atom:link href="https://toontimbermont.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>books</title>
-      <link>https://toontimbermont.github.io/tags/books/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>software development</title>
-      <link>https://toontimbermont.github.io/tags/software-development/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/software-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team</title>
-      <link>https://toontimbermont.github.io/tags/team/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/team/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>team organisation</title>
-      <link>https://toontimbermont.github.io/tags/team-organisation/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/team-organisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teamwork</title>
-      <link>https://toontimbermont.github.io/tags/teamwork/</link>
-      <pubDate>Thu, 27 Apr 2023 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/teamwork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2nd Brain</title>
-      <link>https://toontimbermont.github.io/tags/2nd-brain/</link>
-      <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/2nd-brain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obsidian</title>
-      <link>https://toontimbermont.github.io/tags/obsidian/</link>
-      <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/obsidian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PKM</title>
-      <link>https://toontimbermont.github.io/tags/pkm/</link>
-      <pubDate>Sun, 11 Sep 2022 12:20:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/pkm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>startup</title>
-      <link>https://toontimbermont.github.io/tags/startup/</link>
-      <pubDate>Fri, 15 Jul 2022 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://toontimbermont.github.io/tags/technology/</link>
-      <pubDate>Fri, 15 Jul 2022 17:45:29 +0200</pubDate>
-      
-      <guid>https://toontimbermont.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
+    <title>Tags on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</title>
+    <link>https://www.toontimbermont.be/tags/</link>
+    <description>Recent content in Tags on Toon Timbermont - I help companies build better software with less waste. Software Enthusiast, Entrepreneurial Spirit and People Believer.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.toontimbermont.be/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
